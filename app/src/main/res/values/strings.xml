@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">KHKT_2023</string>
+    <!--    <string name="card_title">Đây là tiêu đề bài viết nào đó tôi cũng không biết nữa</string>-->
+    <!--    <string name="card_content">Còn đây mới là nội dung của bài viết nàyCòn đây mới là nội dung của bài viết nàyCòn đây mới là nội dung của bài viết nàyCòn đây mới là nội dung của bài viết nàyCòn đây mới là nội dung của bài viết nàyCòn đây mới là nội dung của bài viết nàyCòn đây mới là nội dung của bài viết nàyCòn đây mới là nội dung của bài viết này</string>-->
+
+    <string name="card_title">Bài 1: HIỆN THỰC LỊCH SỬ VÀ NHẬN THỨC LỊCH SỬ</string>
+    <string name="card_content">Lịch sử là một dòng chảy liên tục theo thời gian từ quá khứ đến hiện tại, diễn ra một lần và không lặp lại. Lịch sử được hậu thế nhận thức dựa vào những mảnh vỡ của sự kiện (Tức sử liệu) và bị chi phối bởi quan điểm chủ quan của con người. Vậy làm thế nào để tiếp cận lịch sử một cách khách quan, trung thực gần với sự thật nhất? Để trả lời cho câu hỏi này chúng ta cùng tìm hiểu vào bài học hôm nay</string>
+    <string name="card_button">Xem thêm</string>
+    <string name="title_activity_detail_story">DetailStory</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
